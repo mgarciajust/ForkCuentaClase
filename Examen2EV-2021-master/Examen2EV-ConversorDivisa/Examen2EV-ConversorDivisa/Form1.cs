@@ -9,7 +9,6 @@ using System.Windows.Forms;
 
 // María del Camren García Mora 
 // Examen Entornos 20-21
-// ESTO ES UN CAMBIOPOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 
 namespace Ejercicio10
 {
